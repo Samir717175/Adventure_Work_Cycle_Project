@@ -1,6 +1,6 @@
 # Adventure_Work_Cycle_Project
 Prformed end-to-end data analysis. In group project.
-##📊 Customer Segmentation Dashboard (Power BI)
+## 📊 Customer Segmentation Dashboard (Power BI)
 
 # 📌 Overview
 This project presents an interactive Customer Segmentation Dashboard built using Power BI. 
